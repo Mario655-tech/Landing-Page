@@ -1,0 +1,219 @@
+body {
+    font-family: "Roboto";
+    background-color: #1F2937;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;;
+    }
+
+
+
+
+.header .logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #1F2937;
+    margin-top: 20px;
+    
+}
+
+.one, .two, .three {
+    margin-right: 20px;
+    size: 18px;
+    color: #E5E7EB;
+}
+
+
+
+
+.first .maintxt {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+    width: 1000px;       
+}
+
+.first .maindecs {
+    text-wrap: wrap;
+    font-size: 18px;
+    color: #E5E7EB;
+    width: 920px;   
+}
+
+.first {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    margin-top: 50px;
+    
+}
+
+
+.plcimg {
+    width: 200px;
+    height: 100px;   
+}
+
+.signupbox {
+    margin-left: 110px;
+}
+
+.signup {
+    background-color: #3882f6;
+    color: white;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    border: 0px;
+}
+
+
+
+.second {
+    background-color: white;
+    margin-top: 50px;
+}
+
+.randominfo {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.imgg {
+    height: 150px;
+    width: 150px;
+    margin-right: 50px;
+    margin-top: 25px;
+}
+
+.rndinf {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937; 
+    margin-top: 25px;
+}
+
+.images {
+    display: flex;
+    justify-content: center;
+}
+
+.imagetxt {
+    display: flex;
+    justify-content: center;
+    margin-right: 50px;
+    
+}
+
+.imagetxtinfo {
+    font-size: 18px;
+    color: #38393a;
+    width: 200px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+
+
+.threee {
+    background-color: #E5E7EB
+}
+
+.customer {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
+    width: 800px;
+    text-align: left;
+    margin-top: 50px;
+}
+
+.quote {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.signed {
+    font-weight: bolder;
+    color: black;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+.thor  {
+    display: flex;
+    justify-content: right;
+    margin-right: 400px;
+}
+
+
+.four {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+
+.box {
+    box-sizing: border-box;
+    width: 1000px;
+    background-color: #3882f6;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.mainbox {
+    color: white;
+    font-size: 20px;
+}
+
+.secondbox {
+    color: white;
+    font-size: 15px;
+}
+
+.lftbox {
+    padding: 50px;
+}
+
+.buutton {
+    margin-right: 200px;
+}
+
+.boxbuton {
+    background-color: white;
+    color: #3882f6;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    border: 0px;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+.ftrtxtt {
+    color: white;
+    font-size: 10px;
+}
